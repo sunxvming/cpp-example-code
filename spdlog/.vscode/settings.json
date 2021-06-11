@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"xutility": "cpp",
+		"memory": "cpp",
+		"iterator": "cpp",
+		"array": "cpp",
+		"deque": "cpp",
+		"initializer_list": "cpp",
+		"list": "cpp",
+		"random": "cpp",
+		"regex": "cpp",
+		"stack": "cpp",
+		"type_traits": "cpp",
+		"vector": "cpp",
+		"xhash": "cpp",
+		"xstring": "cpp",
+		"xtree": "cpp"
+	}
+}

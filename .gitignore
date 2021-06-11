@@ -33,3 +33,6 @@
 
 
 main
+
+# 忽略目录为build的目录
+**/build
